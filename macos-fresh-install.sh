@@ -16,14 +16,15 @@ brew tap caskroom/cask
 # Dev Tools
 brew install node
 brew install git
+brew install gulp
 brew install docker
-brew cask install visual-studio-code
-brew cask install figma
+brew install composer
 brew tap mongodb/brew
 brew install mongodb-community
 brew cask install mongodb-compass
-brew install composer
-brew install gulp
+brew cask install docker
+brew cask install visual-studio-code
+brew cask install figma
 brew cask install sequel-pro
 brew cask install cyberduck
 
