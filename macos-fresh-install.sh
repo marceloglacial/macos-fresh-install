@@ -23,6 +23,7 @@ brew tap mongodb/brew
 brew install mongodb-community
 brew cask install mongodb-compass
 brew install composer
+brew install gulp
 brew cask install sequel-pro
 brew cask install cyberduck
 
