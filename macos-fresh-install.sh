@@ -16,7 +16,6 @@ brew tap homebrew/cask
 # Dev Tools
 brew install node
 brew install git
-brew install gulp
 brew install docker
 brew install composer
 brew tap mongodb/brew
