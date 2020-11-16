@@ -18,6 +18,8 @@ brew install node
 brew install git
 brew install docker
 brew install composer
+brew install gulp-cli
+brew install node-sass
 brew tap mongodb/brew
 brew install mongodb-community
 brew cask install mongodb-compass
