@@ -30,10 +30,6 @@ brew cask install figma
 brew cask install sequel-pro
 brew cask install cyberduck
 
-# Communication Apps
-brew cask install skype
-brew cask install slack
-
 # Web Tools
 brew cask install google-chrome
 brew cask install firefox
@@ -49,3 +45,4 @@ brew cask install beardedspice
 #Productivity 
 brew cask install keepingyouawake
 brew cask install rectangle
+brew cask install google-photos-backup-and-sync
