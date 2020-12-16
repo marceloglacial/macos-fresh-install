@@ -26,24 +26,15 @@ brew cask install docker
 brew cask install visual-studio-code
 brew cask install figma
 brew cask install sequel-pro
-
-# Web Tools
-brew cask install firefox
 brew cask install postman
-brew install --cask brave-browser
-
-# Password Manager
 brew cask install enpass
-
-# Entertainment
 brew cask install spotify
 brew cask install beardedspice
-
-#Productivity 
 brew cask install keepingyouawake
 brew cask install rectangle
+brew install --cask brave-browser
 brew install --cask onedrive
-brew install --cask slack
-brew install --cask whatsapp
-brew install --cask telegram
 brew install --cask messenger
+brew install --cask slack
+brew install --cask telegram
+brew install --cask whatsapp
