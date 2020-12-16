@@ -18,8 +18,6 @@ brew install node
 brew install git
 brew install docker
 brew install composer
-brew install gulp-cli
-brew install node-sass
 brew install yarn
 brew tap mongodb/brew
 brew install mongodb-community
@@ -28,12 +26,11 @@ brew cask install docker
 brew cask install visual-studio-code
 brew cask install figma
 brew cask install sequel-pro
-brew cask install cyberduck
 
 # Web Tools
-brew cask install google-chrome
 brew cask install firefox
 brew cask install postman
+brew install --cask brave-browser
 
 # Password Manager
 brew cask install enpass
@@ -45,4 +42,8 @@ brew cask install beardedspice
 #Productivity 
 brew cask install keepingyouawake
 brew cask install rectangle
-brew cask install google-photos-backup-and-sync
+brew install --cask onedrive
+brew install --cask slack
+brew install --cask whatsapp
+brew install --cask telegram
+brew install --cask messenger
