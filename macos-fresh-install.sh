@@ -16,7 +16,6 @@ brew tap homebrew/cask
 # Dev Tools
 brew install node
 brew install git
-brew install docker
 brew install composer
 brew install yarn
 brew tap mongodb/brew
@@ -33,6 +32,7 @@ brew cask install beardedspice
 brew cask install keepingyouawake
 brew cask install rectangle
 brew install --cask brave-browser
+brew install --cask firefox-developer-edition
 brew install --cask onedrive
 brew install --cask messenger
 brew install --cask slack
