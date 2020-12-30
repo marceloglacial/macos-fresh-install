@@ -16,7 +16,6 @@ brew install --cask keepingyouawake
 brew install --cask rectangle
 brew install --cask brave-browser
 brew install --cask firefox
-brew install --cask onedrive
 brew install --cask messenger
 brew install --cask slack
 brew install --cask telegram
