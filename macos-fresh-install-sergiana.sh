@@ -21,7 +21,6 @@ brew install --cask slack
 brew install --cask telegram
 brew install --cask whatsapp
 brew install --cask skype
-brew install --cask google-backup-and-sync
 brew install --cask dropbox
 brew install --cask microsoft-office
 brew install --cask teamviewer-quicksupport
