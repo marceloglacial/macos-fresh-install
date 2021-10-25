@@ -8,6 +8,7 @@ echo "Installing brew..."
 /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
 
 echo "Installing brew cask..."
+
 brew tap homebrew/cask
 
 echo "Dev toools ..."
@@ -32,6 +33,7 @@ brew install --cask microsoft-teams
 brew install --cask microsoft-edge
 
 echo "Social Apps ..."
+
 brew install --cask messenger
 brew install --cask slack
 brew install --cask telegram
@@ -39,4 +41,5 @@ brew install --cask whatsapp
 brew install --cask discord
 
 echo "Misc ..."
+
 brew install --cask enpass
