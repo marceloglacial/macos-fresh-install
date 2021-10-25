@@ -10,6 +10,8 @@ echo "Installing brew..."
 echo "Installing brew cask..."
 brew tap homebrew/cask
 
+echo "Dev toools ..."
+
 brew install node
 brew install git
 brew install composer
@@ -22,15 +24,19 @@ brew install --cask visual-studio-code
 brew install --cask figma
 brew install --cask sequel-pro
 brew install --cask postman
-brew install --cask enpass
-brew install --cask spotify
-brew install --cask beardedspice
 brew install --cask keepingyouawake
 brew install --cask rectangle
 brew install --cask brave-browser
 brew install --cask firefox
-brew install --cask onedrive
+brew install --cask microsoft-teams
+brew install --cask microsoft-edge
+
+echo "Social Apps ..."
 brew install --cask messenger
 brew install --cask slack
 brew install --cask telegram
 brew install --cask whatsapp
+brew install --cask discord
+
+echo "Misc ..."
+brew install --cask enpass
