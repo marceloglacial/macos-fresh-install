@@ -14,6 +14,7 @@ brew tap homebrew/cask
 echo "Dev toools ..."
 
 brew install node
+brew install nvm
 brew install git
 brew install composer
 brew install yarn
