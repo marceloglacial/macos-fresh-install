@@ -26,6 +26,7 @@ brew install --cask keepingyouawake
 brew install --cask rectangle
 brew install --cask brave-browser
 brew install --cask microsoft-teams
+brew tap buo/cask-upgrade
 
 echo "Social Apps ..."
 
