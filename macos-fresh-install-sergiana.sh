@@ -9,13 +9,12 @@ echo "Installing brew..."
 
 echo "Installing brew cask..."
 brew tap homebrew/cask
+brew tap buo/cask-upgrade
 
 brew install --cask enpass
-brew install --cask spotify
 brew install --cask keepingyouawake
 brew install --cask rectangle
 brew install --cask brave-browser
-brew install --cask firefox
 brew install --cask messenger
 brew install --cask slack
 brew install --cask telegram
