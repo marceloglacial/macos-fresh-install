@@ -10,6 +10,7 @@ echo "Installing brew..."
 echo "Installing brew cask..."
 
 brew tap homebrew/cask
+brew tap buo/cask-upgrade
 
 echo "Dev toools ..."
 
@@ -26,7 +27,6 @@ brew install --cask keepingyouawake
 brew install --cask rectangle
 brew install --cask brave-browser
 brew install --cask microsoft-teams
-brew tap buo/cask-upgrade
 
 echo "Social Apps ..."
 
