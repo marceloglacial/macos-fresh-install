@@ -22,6 +22,7 @@ brew install --cask docker
 brew install --cask visual-studio-code
 brew install --cask figma
 brew install --cask postman
+brew install --cask warp
 
 echo "Other ..." 
 bew install --cask enpass
