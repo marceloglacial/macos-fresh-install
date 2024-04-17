@@ -17,21 +17,14 @@ echo "Dev toools ..."
 brew install node
 brew install nvm
 brew install git
-brew install composer
 brew install yarn
 brew install --cask docker
 brew install --cask visual-studio-code
 brew install --cask figma
 brew install --cask postman
+
+echo "Other ..." 
+bew install --cask enpass
 brew install --cask keepingyouawake
 brew install --cask rectangle
-brew install --cask brave-browser
-brew install --cask microsoft-teams
-
-echo "Social Apps ..."
-
-brew install --cask messenger
-brew install --cask slack
-brew install --cask telegram
-brew install --cask whatsapp
-brew install --cask discord
+brew install --cask google-chrome
